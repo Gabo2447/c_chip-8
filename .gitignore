@@ -1,0 +1,20 @@
+build/
+bin/
+obj/
+
+# Objects, libraries...
+*.o
+*.a
+*.so
+*.dylib
+
+# Executables
+*.out
+*.exe
+
+# IDEs
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/

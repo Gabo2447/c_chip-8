@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.c text diff=cpp
+*.h text diff=cpp
+*.o binary
+*.a binary
+*.so binary
+*.exe binary
