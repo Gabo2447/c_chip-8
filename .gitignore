@@ -1,6 +1,7 @@
 build/
 bin/
 obj/
+cmake-build-debug/
 
 # Objects, libraries...
 *.o
